@@ -21,20 +21,4 @@ The user can experiment with many different variations of choices for portfolio 
  - Hypothetical past portfolio performance
 
 
-#### App User Interface
-![App User Interface][app-screenshot]
 
-#### Beta & Normalized Portfolio 
-![Beta & Normalized Portfolio][beta-screenshot]
-
-#### Heatmap 
-![Heatmap][heatmap-screenshot]
-
-#### Historical Portfolio 
-![Historical Portfolio][historical-screenshot]
-
-#### Monte Carlo Simulation Results 
-![Monte Carlo Simulation Results][montecarlo-screenshot]
-
-
-[montecarlo-screenshot]: /images/monte_carlo_output.PNG
