@@ -9,13 +9,9 @@ The main objectives of the application include:
 - Allowing users to filter data by date for targeted analysis.
 - Providing insights into product performance through various metrics.
 
-## Balance
-The application strikes a balance between data analysis and user interaction, offering a user-friendly interface powered by Streamlit. Users can easily navigate through the data and visualize key metrics without needing extensive technical knowledge.
 
 ## How it Works
+- The dependencies listed in `requirements.txt` ensure that all necessary libraries are available for the application to function correctly.
 - The `data.csv` file serves as the primary dataset, containing sales information such as order dates, regions, products, and pricing.
 - The `main.py` file implements the core functionalities of the application, including loading the dataset, filtering data based on user-selected date ranges, and generating visualizations using libraries like Plotly and Seaborn.
-- The dependencies listed in `requirements.txt` ensure that all necessary libraries are available for the application to function correctly.
 
-## Logo
-![Business Analytics Logo](images/logo2.png)
