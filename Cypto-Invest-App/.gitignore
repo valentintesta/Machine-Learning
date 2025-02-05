@@ -1,0 +1,15 @@
+.DS_Store
+
+.env
+
+.ipynb_checkpoints/
+
+rest_api/__pychache__/
+
+rest_api/alpaca copy.py
+
+utils/__pychache__/
+
+visualizations/__pychache__/
+
+test/__pychache__/
