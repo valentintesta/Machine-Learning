@@ -44,5 +44,46 @@ Sales analysis with interactive filtering options
 Identification of trends by product, date, and region
 User-friendly interface requiring no advanced technical knowledge
 
+## 3. Grayscale Analysis – Portfolio & Monte Carlo Simulation
+### 📌 Description:
+
+Grayscale Analysis is an advanced portfolio analysis and forecasting application that allows users to evaluate the relationships between an index, multiple stocks, and cryptocurrencies. By leveraging historical data, the application provides relative asset analysis, correlation insights, and Monte Carlo simulations to forecast potential future returns.
+
+### 📌 Technologies Used:
+
+Python – Core development language
+Pandas, NumPy – Data processing & numerical computations
+Matplotlib, Seaborn, Plotly – Data visualization
+Streamlit – Interactive user interface
+Yahoo Finance API – Financial data retrieval
+
+### 📌 Key Features:
+
+✔ Perform historical portfolio analysis to identify asset relationships.
+✔ Enable future performance forecasting through Monte Carlo simulations.
+✔ Provide dynamic user input to customize investment scenarios.
+✔ Offer key financial insights, including correlation heatmaps, asset betas, and Sharpe ratios
 
 
+## 4. Stock Price Prediction Using LSTM
+
+### 📌 Description:
+Development of a Long Short-Term Memory (LSTM) neural network model to predict stock prices based on historical data.
+
+### 📌 Technologies Used:
+
+TensorFlow, Keras for model training
+Yahoo Finance API for data retrieval
+Streamlit for interactive data visualization
+
+### 📌 Key Features:
+
+Forecasting stock price trends
+Visualization of historical prices and future projections
+Integration of technical analysis using moving averages
+
+# Overall Conclusion
+
+These projects highlight my expertise in Business Analytics, Data Science, and Machine Learning, applied across industries such as finance, sales, and investment analysis. My goal is to develop scalable and intuitive solutions that empower businesses and investors with data-driven insights.
+
+🚀 LinkedIn: [https://www.linkedin.com/in/valentin-testa-986007183/]
